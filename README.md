@@ -1,13 +1,29 @@
 # Spam Email Classifier
 
-This is a simple machine learning project that classifies emails as spam or not spam.
+This project is a simple Machine Learning model that classifies emails as **Spam or Not Spam** using Python.
 
-## Tech Used:
+## 🚀 Features
+- Text classification using Machine Learning
+- Uses CountVectorizer for text processing
+- Naive Bayes algorithm for prediction
+
+## 🧠 How it works
+- Convert email text into numerical format
+- Train model on sample data
+- Predict whether new email is spam or not
+
+## 📌 Example
+Input: "Free money now"  
+Output: Spam
+
+## 🛠 Tech Stack
 - Python
 - Scikit-learn
 
-## Description:
-Used CountVectorizer for text processing and Naive Bayes for classification.
+## 📈 Future Improvements
+- Use real dataset
+- Improve accuracy
+- Build web interface
 
-## Author:
+## 👨‍💻 Author
 Vishal Mate
